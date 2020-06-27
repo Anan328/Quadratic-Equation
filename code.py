@@ -7,7 +7,7 @@ while True:
         else:
             b=int(input("enter the value of 'b':"))
             c=int(input("enter the value of 'c':"))
-            if a==1 or a==-1:
+            if a==1:
                 print("The required Quadratic Eqn is:"," ",end="")
                 print("x"+"^"+"2","+","("+str(b)+")" + "x","+","("+str(c)+")","=","0")
             else:
